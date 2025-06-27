@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackendASP\\MVC\\Project\\FakeStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAADYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T11:05:51.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FakeStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FakeStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwDcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T11:03:29.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FakeStore\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FakeStore\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T10:08:02.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

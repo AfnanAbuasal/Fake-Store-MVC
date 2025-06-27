@@ -1,0 +1,59 @@
+﻿@model List<Category>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <section class="py-2 bg-light" style="box-shadow: 0 1px 3px 2px rgba(0, 0, 0, 0.1)">
+        <div class="container px-4 px-lg-5">
+            <div class="d-flex justify-content-start align-items-center" style="gap: 20px">
+                <p class="mb-0 text-secondary" style="align-self:center">Categories</p>
+                <div class="d-flex justify-content-center align-items-center" style="gap: 20px">
+                    <button class="bg-light" style="border:none;width:fit-content">
+                        <i class="fa-solid fa-chevron-left fa-xs"></i>
+                    </button>
+                    <ul class="d-flex flex-row list-unstyled mb-0" style="gap: 30px;">
+                        @foreach (var item in Model)
+                        {
+                            <li class="nav-item" style="width:fit-content;">
+                                <a class="nav-link" href="#!" style="font-size:small">@item.Name</a>
+                            </li>
+                        }
+                    </ul>
+                    <button class="bg-light" style="border:none;width:fit-content">
+                        <i class="fa-solid fa-chevron-right fa-xs"></i>
+                    </button>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-2">
+        <div class="container px-4 px-lg-5 mt-5">
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                @foreach (var item in ViewBag.products)
+                {
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="@item.Name" />
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <h5 class="fw-bolder">@item.Name</h5>
+                                    $@item.Price
+                                </div>
+                            </div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+</body>
+</html>
