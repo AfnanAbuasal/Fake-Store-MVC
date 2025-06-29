@@ -5,20 +5,116 @@
       "PackagePath": "staticwebassets\\FakeStore.qe1sdvvwfw.bundle.scp.css"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\css\\OverlayScrollbars.min.css",
-      "PackagePath": "staticwebassets\\css\\OverlayScrollbars.min.css"
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\OverlayScrollbars.min.css"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\css\\adminlte.min.css",
-      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.min.css"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\css\\adminlte.min.css.map",
-      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.min.css.map"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\css\\all.min.css",
-      "PackagePath": "staticwebassets\\css\\all.min.css"
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\admin\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\css\\site.css",
@@ -29,44 +125,12 @@
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\AdminLTELogo.png",
-      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
-    },
-    {
       "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\user1-128x128.jpg",
-      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\user2-160x160.jpg",
-      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\user3-128x128.jpg",
-      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\user8-128x128.jpg",
-      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\adminlte.min.js",
-      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\adminlte.min.js.map",
-      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\demo.js",
-      "PackagePath": "staticwebassets\\js\\demo.js"
-    },
-    {
-      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\jquery.overlayScrollbars.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.overlayScrollbars.min.js"
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\favicon_white.png",
+      "PackagePath": "staticwebassets\\img\\favicon_white.png"
     },
     {
       "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\scripts.js",

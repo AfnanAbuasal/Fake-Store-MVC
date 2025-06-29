@@ -172,3 +172,4 @@ D:\BackendASP\MVC\Project\FakeStore\FakeStore\obj\Debug\net8.0\FakeStore.genrunt
 D:\BackendASP\MVC\Project\FakeStore\FakeStore\obj\Debug\net8.0\ref\FakeStore.dll
 D:\BackendASP\MVC\Project\FakeStore\FakeStore\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\BackendASP\MVC\Project\FakeStore\FakeStore\obj\Debug\net8.0\scopedcss\Areas\Customer\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BackendASP\MVC\Project\FakeStore\FakeStore\obj\Debug\net8.0\FakeStore.sourcelink.json
