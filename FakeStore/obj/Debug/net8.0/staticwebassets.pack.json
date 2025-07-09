@@ -125,6 +125,18 @@
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "PackagePath": "staticwebassets\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "PackagePath": "staticwebassets\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp"
+    },
+    {
+      "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\WirelessEarbuds.webp",
+      "PackagePath": "staticwebassets\\img\\Products\\WirelessEarbuds.webp"
+    },
+    {
       "Id": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },

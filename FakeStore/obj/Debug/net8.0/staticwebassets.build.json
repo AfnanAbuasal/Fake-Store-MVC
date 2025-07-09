@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZMXDxUm5SRRMTTNTtlBL6N9UkkV3eSS/p78j64yByZU=",
+  "Hash": "HHzFusFoSMaw/WVMaHS6Q4XKW5VvGLjTdNryI08r6Zc=",
   "Source": "FakeStore",
   "BasePath": "_content/FakeStore",
   "Mode": "Default",
@@ -729,6 +729,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\favicon_white.png"
+    },
+    {
+      "Identity": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "SourceId": "FakeStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\",
+      "BasePath": "_content/FakeStore",
+      "RelativePath": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r1o957aqz",
+      "Integrity": "IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp"
+    },
+    {
+      "Identity": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "SourceId": "FakeStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\",
+      "BasePath": "_content/FakeStore",
+      "RelativePath": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r1o957aqz",
+      "Integrity": "IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp"
+    },
+    {
+      "Identity": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\WirelessEarbuds.webp",
+      "SourceId": "FakeStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\",
+      "BasePath": "_content/FakeStore",
+      "RelativePath": "img/Products/WirelessEarbuds#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xqfnz5vwdw",
+      "Integrity": "hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Products\\WirelessEarbuds.webp"
     },
     {
       "Identity": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\js\\scripts.js",
@@ -4756,6 +4819,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-74OxjCkoALGRyCQLI2Gvb9cz2X4lUCgSUBBXnEvFFJg="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.3r1o957aqz.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 16:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r1o957aqz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 16:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.3r1o957aqz.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 13:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r1o957aqz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 13:33:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/WirelessEarbuds.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\WirelessEarbuds.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 19:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/WirelessEarbuds.xqfnz5vwdw.webp",
+      "AssetFile": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\wwwroot\\img\\Products\\WirelessEarbuds.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 19:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqfnz5vwdw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/WirelessEarbuds.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE="
         }
       ]
     },

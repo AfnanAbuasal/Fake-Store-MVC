@@ -1,0 +1,68 @@
+﻿@model Product
+@section PageTitle {
+Create Product Dashboard
+}
+@section Title {
+Create Product
+}
+@section Footer {
+End of Create Product
+}
+@section Script {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-area="Admin" asp-action="create" asp-controller="Products" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Name" for="productName">Product Name</label>
+            <input name="Name" type="text" class="form-control" id="productName" placeholder="Enter Product Name" asp-for="Name">
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price" for="productPrice">Product Price</label>
+            <input name="Price" type="text" class="form-control" id="productPrice" placeholder="Enter Product Price" asp-for="Price">
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Quantity" for="productQuantity">Product Quantity</label>
+            <input name="Quantity" type="number" class="form-control" id="productQuantity" placeholder="Enter Product Quantity" asp-for="Quantity">
+        </div>
+        <div class="form-group">
+            <label asp-for="Discount" for="productDiscount">Product Discount</label>
+            <input name="Discount" type="text" class="form-control" id="productDiscount" placeholder="Enter Product Discount" asp-for="Discount">
+            <span class="text-danger" asp-validation-for="Discount"></span>
+        </div>
+        <div class="form-group">
+            <label for="productCategory">Product Category</label>
+            <select name="CategoryID" class="form-control" id="productCategory">
+                @foreach(var item in ViewBag.Categories)
+                {
+                    <option value="@item.ID">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="productBrand">Product Brand</label>
+            <select name="BrandID" class="form-control" id="productBrand">
+                @foreach (var item in ViewBag.Brands)
+                {
+                    <option value="@item.ID">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="Image" for="productImage">Product Image</label>
+            <input name="Image" type="file" class="form-control" id="productImage" asp-for="Image">
+            <span class="text-danger" asp-validation-for="Image"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,84 @@
+﻿@model Product
+@section PageTitle {
+Update Product Dashboard
+}
+@section Title {
+Update Product
+}
+@section Footer {
+End of Update Product
+}
+@section Script {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-area="Admin" asp-action="update" asp-controller="Products" enctype="multipart/form-data">
+        <input hidden name="ID" type="text" class="form-control" id="productID" value="@Model.ID" />
+        <div class="form-group">
+            <label asp-for="Name" for="productName">Product Name</label>
+            <input asp-for="Name" name="Name" type="text" class="form-control" id="productName" value="@Model.Name">
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for ="Price" for="productPrice">Product Price</label>
+            <input asp-for="Price" name="Price" type="text" class="form-control" id="productPrice" value="@Model.Price">
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for ="Quantity" for="productQuantity">Product Quantity</label>
+            <input asp-for="Quantity" name="Quantity" type="number" class="form-control" id="productQuantity" value="@Model.Quantity">
+        </div>
+        <div class="form-group">
+            <label asp-for="Discount" for="productDiscount">Product Discount</label>
+            <input asp-for="Discount" name="Discount" type="text" class="form-control" id="productDiscount" value="@Model.Discount">
+            <span class="text-danger" asp-validation-for="Discount"></span>
+        </div>
+        <div class="form-group">
+            <label for="productCategory">Product Category</label>
+            <select name="CategoryID" class="form-control" id="productCategory">
+                @foreach (var item in ViewBag.Categories)
+                {
+                    if (@item.ID == Model.CategoryID)
+                    {
+                        <option value="@item.ID" selected>@item.Name</option>
+                    } else
+                    {
+                        <option value="@item.ID">@item.Name</option>
+                    }
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="productBrand">Product Brand</label>
+            <select name="BrandID" class="form-control" id="productBrand">
+                @foreach (var item in ViewBag.Brands)
+                {
+                    if (@item.ID == Model.BrandID)
+                    {
+                        <option value="@item.ID" selected>@item.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@item.ID">@item.Name</option>
+                    }
+                }
+            </select>
+        </div>
+        <span class="mr-2" >Current Image:</span>
+        <img src="/img//Products/@Model.Image" style="width:150px; border: 1px solid lightGrey; border-radius:5%; padding:5px" />
+        <div class="form-group">
+            <label asp-for="Image" for="productImage">Product Image</label>
+            <input asp-for="Image" name="Image" type="file" class="form-control" id="productImage">
+            <span class="text-danger" asp-validation-for="Image"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿@model Brand
+@section PageTitle {
+        Create Brand Dashboard
+}
+@section Title {
+        Create Brand
+}
+@section Footer {
+        End of Create Brand
+}
+@section Script {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-area="Admin" asp-action="create" asp-controller="Brands">
+        <div class="form-group">
+            <label asp-for="Name" for="brandName">Brand Name</label>
+            <input asp-for="Name" name="Name" type="text" class="form-control" id="brandName" placeholder="Enter Brand Name">
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <button type="submit" class="btn btn-primary btn-sm">Create</button>
+    </form>
+</body>
+</html>

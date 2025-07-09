@@ -2545,6 +2545,252 @@
       ]
     },
     {
+      "Route": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.3r1o957aqz.webp",
+      "AssetFile": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 16:47:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r1o957aqz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "AssetFile": "img/Products/2740f6f2-7e80-40c6-adf6-808f823955db.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 16:47:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.3r1o957aqz.webp",
+      "AssetFile": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 13:33:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r1o957aqz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "AssetFile": "img/Products/4944a6fc-b950-4c36-bcb6-0b7c23dfc02c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 13:33:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRSVuMcJ8zqfSXK00kfzuamCT5wl4OojvA8R6eM6oQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/WirelessEarbuds.webp",
+      "AssetFile": "img/Products/WirelessEarbuds.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 19:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/WirelessEarbuds.xqfnz5vwdw.webp",
+      "AssetFile": "img/Products/WirelessEarbuds.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 19:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqfnz5vwdw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hynhuKxeKfCZCaTdYpMBFgXo+ofwpNyqaMUzO+1aoPE="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/WirelessEarbuds.webp"
+        }
+      ]
+    },
+    {
       "Route": "img/favicon.png",
       "AssetFile": "img/favicon.png",
       "Selectors": [],

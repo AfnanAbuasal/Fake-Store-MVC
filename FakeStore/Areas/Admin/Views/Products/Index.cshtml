@@ -1,0 +1,40 @@
+﻿@model List<Product>
+@section PageTitle {
+Products Dashboard
+}
+@section Title {
+Products
+}
+@section Footer {
+End of Products
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        @foreach(var item in Model)
+        {
+            <div class="col mb-4 d-flex">
+                <div class="d-flex flex-column">
+                    <div class="card shadow-sm border-0 mb-2" style="width: 200px;">
+                        <img src="/img/Products/@item.Image" class="card-img-top" alt="@item.Name" style="border-bottom: 1px solid #eee;">
+                        <div class="card-body">
+                            <h5 class="mb-2 text-truncate" style="max-width: 100%;" title="@item.Name">@item.Name</h5>
+                            <div class="d-flex align-items-baseline">
+                                <span class="text-success font-weight-bold me-2 mr-2">@item.Price$</span>
+                                <span class="badge badge-light border text-danger" style="font-size: 0.8rem;">-@item.Discount% Discount</span>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="/admin/products/update/@item.ID" class="btn btn-primary btn-sm mb-1" style="width: 200px;">Update</a>
+                    <a href="/admin/products/delete/@item.ID" class="btn btn-danger btn-sm" style="width: 200px;"
+                        onclick="return confirm('Are you sure you want to delete @item.Name product?');">Delete</a>
+                </div> 
+            </div>
+        }
+    </div>
+</body>
+</html>

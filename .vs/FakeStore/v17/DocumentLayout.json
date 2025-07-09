@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\BackendASP\\MVC\\Project\\FakeStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|d:\\backendasp\\mvc\\project\\fakestore\\fakestore\\areas\\admin\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABC8D27D-E04A-4D5C-B761-676494DD356F}|FakeStore\\FakeStore.csproj|solutionrelative:fakestore\\areas\\admin\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-27T11:27:54.474Z",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FakeStore\\Models\\Product.cs",
+              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Models\\Product.cs",
+              "RelativeToolTip": "FakeStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:28:25.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:25:27.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-27T11:22:00.834Z",
+              "WhenOpened": "2025-07-09T19:41:21.503Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\BackendASP\\MVC\\Project\\FakeStore\\FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FakeStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T11:05:51.906Z"
             }
           ]
         }
